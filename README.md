@@ -5,6 +5,9 @@ Research Question: Can we predict whether a loan applicant will default using th
 - To analyze the data of different people who had a 'no' for a status and a 'yes' for the status and which values for which X variable was causing the answer to be yes or no.
 - To make conclusions and predictions based on the demographic, financial and loan characteristics for the Status in which the goal is also to know which factor most likely predicts risk.
 
+## Dataset
+- To find the dataset specifically go to: Credit_Risk_Analysis. [Dataset]. Kaggle. https://www.kaggle.com/datasets/nanditapore/credit-risk-analysis
+
 ## Variables:
 Header | Description
 ---|---------
